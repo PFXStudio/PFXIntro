@@ -1,4 +1,4 @@
 # PFXIntro
 PFXIntro
 
-![Launch screen](/heartbreaker.gif){:height="50%" width="50%"}
+![Launch screen](/heartbreaker.gif){: width="50%" height="50%"}
